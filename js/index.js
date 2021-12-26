@@ -16,7 +16,7 @@ var score = 0;
 
 //Гравитация 
 
-const grav = 0.6;
+const grav = 0.8;
 
 //Позиция птички
 
